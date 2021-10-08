@@ -2,5 +2,5 @@
 
 Olá: Bem vindo ao meu livro de receitas :handshake:
 
-
-
+- Lasanha de Frango
+- Pavê
